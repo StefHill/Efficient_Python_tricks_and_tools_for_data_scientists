@@ -1,34 +1,13 @@
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/khuyentran1401/Efficient_Python_tricks_and_tools_for_data_scientists) [![View Book](https://img.shields.io/badge/Book-View%20Book-red?style=plastic&logo=book)](https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists)
-# Efficient Python Tricks and Tools for Data Scientists  
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/StefHill/HillsHealth/wiki) 
 
-Why efficient Python? Because using Python more efficiently will make your code more readable and run more efficiently.
+### An Abstractive Summariser of Evidence-Based Medicine
 
-Why for data scientist? Because Python has a wide application. The Python tools used in the data science field are not necessarily useful for other fields such as web development. 
+_Medical journals have many problems and need reform.  They are overinfluenced by the pharmaceutical industry, too fond of the mass media, and yet neglectful of patients.  The research they contain is hard to interpret and prone to bias, and peer review, the process at the heart of journals and all of science, is deeply flawed._  
 
-The goal of this book is to spread the awareness of efficient ways to do Python. They include:
-* efficient methods and libraries to work with iterator, dictionary, function, and class
-* efficient methods to work with popular data science libraries such as pandas and NumPy
-* efficient tools to incorporate in a data science project
-* efficient tools to incorporate in any project
-* efficient tools to work with Jupyter Notebook.
+_The whole business of medical journals is corrupt because owners are making money from restricting access to important research, most it funded by public money.  All this matters to everybody because medical journals have a strong influence on their healthcare and lives._
 
-![image](img/tools.png)
+-Richard Smith (former editor of the British Medical Journal)
 
-## What Should You Expect From This Book?
-This book expects you to have some basic knowledge of Python and data science. 
+Evidence-based medicine (EBM) is the gold-standard of health and medical information and provides us with the current best evidence to allow us to make informed decisions about our wellbeing.  As such, the high-level vision for this project is to bring EBM to the lay public in a style that is engaging, contemporary, and accurately reflects the published research. 
 
-You should also expect bite-size code snippets for each section. This will allow you to obtain multiple pieces of knowledge in fewer than one minute. I included the link to the resources for every tools introduced in case you want to explore them further. 
-
-## About This Book
-This book includes more than 300 tips and tools I have shared daily on my website, [Data Science Simplified](https://mathdatasimplified.com/). If you want to get the updated of new tips on your mailbox, you can subscribe to my website. 
-
-## About The Author
-
-![image](img/mypic.jpeg)
-
-Khuyen Tran is a data science writer at NVIDIA and a data science intern at Ocelot Consulting. She wrote over 150 data science articles with 100k+ views per month on Towards Data Science. She also wrote 300+ daily data science tips at [Data Science Simplified](https://mathdatasimplified.com/). Her current mission is to make open-source more accessible to the data science community. 
-
-## Supporters
-Special thanks to these supporters for supporting this project!
-
-[<img src="https://github.com/khuyentran1401/Data-science/blob/master/img/danny.png?raw=true" width="100" height="100">](https://github.com/DataWithDanny) [<img src="https://github.com/khuyentran1401/Data-science/blob/master/img/sagar.jpeg?raw=true" width="100" height="100">](https://www.linkedin.com/in/sagar-ravindra-sonawane/)
+<p align="center"><img src="https://user-images.githubusercontent.com/45914355/136615431-af90993d-25c5-401d-a855-f4fa3726db18.jpg"></p>
